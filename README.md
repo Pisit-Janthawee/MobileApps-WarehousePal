@@ -4,6 +4,18 @@
 
 Mobile Application for Android Platform
 
+# Development tools
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/andriod_studio_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/flutter_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/dart_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/figma_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/github_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/python_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/sqlite_icon.png" style="margin: 5px;" width="102" height="217">
+    <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/vscode_icon.png" style="margin: 5px;" width="102" height="217">
+</div>
+
 # **Abstract**
 
 An Application of Warehouse Management System
