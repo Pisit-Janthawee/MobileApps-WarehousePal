@@ -7,18 +7,25 @@ Mobile Application for Android Platform
 # Development tools
 1. **Android Studio**: Integrated Development Environment (IDE) for Android app development.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/andriod_studio_icon.png" style="margin: 5px;" width="100" height="100">
+
 2. **Flutter**: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/flutter_icon.png" style="margin: 5px;" width="100" height="100">
+
 3. **Dart**: Client-optimized programming language for apps on multiple platforms.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/dart_icon.png" style="margin: 5px;" width="100" height="100">
+
 4. **Figma**: Collaborative interface design tool used for creating, testing, and shipping designs.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/figma_icon.png" style="margin: 5px;" width="100" height="100">
+
 5. **GitHub**: Version control and collaboration platform for software development projects.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/github_icon.png" style="margin: 5px;" width="100" height="100">
+
 6. **Python**: General-purpose programming language often used for backend development and data analysis.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/python_icon.png" style="margin: 5px;" width="100" height="100">
+
 7. **SQLite**: Lightweight, self-contained database used for local data storage in applications.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/sqlite_icon.png" style="margin: 5px;" width="100" height="100">
+
 8. **Visual Studio Code (VSCode)**: Lightweight, open-source code editor with strong support for development operations.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/vscode_icon.png" style="margin: 5px;" width="100" height="100">
 
