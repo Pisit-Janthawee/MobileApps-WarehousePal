@@ -23,7 +23,8 @@ The rise of online stores necessitates efficient warehouse management. Warehouse
 - Real-time tracking dashboard for optimized warehouse management.
 - Multi-store functionality within a single account.
 - Focus on efficient product movement management.
-- Variation of product support.
+- Variation of product support and Batch production support
+- Batch or lot production support for streamlined inventory tracking.
 
 ## **Collaboration**
 - two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.
