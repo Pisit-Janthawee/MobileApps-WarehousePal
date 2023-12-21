@@ -7,6 +7,16 @@ Mobile Application for Android Platform
 ## **About:**
 WarehousePal is a responsive Warehouse and Retail Management mobile application developed over 8 months in collaboration with a team of two. The app, created using Android Studio, Flutter, Dart, SQLite, and GitHub, aims to address challenges in online and offline commerce management.
 
+**Abstract:**
+WarehousePal is a Warehouse Management System application facilitating users in managing warehouse operations, tracking product movements, and handling buying and selling information.
+
+**Background:**
+The rise of online stores necessitates efficient warehouse management. WarehousePal addresses this need by providing tools for consistent record-keeping and balanced product movements.
+
+**Objectives:**
+- Addressed challenges in online and offline commerce warehouse and retail management.
+- Develop a mobile application supporting systematic warehouse management, real-time tracking, and effective customer order management.
+
 ## **Key Features:**
 
 - Automated shipping price calculation based on product weight.
@@ -14,17 +24,12 @@ WarehousePal is a responsive Warehouse and Retail Management mobile application 
 - Multi-store functionality within a single account.
 - Focus on efficient product movement management.
 - Variation of product support.
+
+## **Collaboration**
+- two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.
   
-- **About:**  A Warehouse and Retail Management Mobile application, responsive User-Interface 
-- Collaboration: two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.    
-- **Objective:** Addressed challenges in online and offline commerce warehouse and retail management.
-- **Features:**
-    - Support and calculate shipping prices based on product weight automatically.
-    - Real-time tracking dashboard for enhanced warehouse management.
-    - Multiple-store in 1 account
-    - Focus on efficient product movement management.
-    - Variation of product 
-- **Achievement:** Published on Google Play Store with a high user satisfaction score (4.74/5).
+##**Achievement**
+- Published on Google Play Store with a high user satisfaction score (4.74/5).
 
 # Development tools
 1. **Android Studio**: Integrated Development Environment (IDE) for Android app development.
@@ -51,21 +56,7 @@ WarehousePal is a responsive Warehouse and Retail Management mobile application 
 8. **Visual Studio Code (VSCode)**: Lightweight, open-source code editor with strong support for development operations.
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/dev_tools_imgs/vscode_icon.png" style="margin: 5px;" width="100" height="100">
 
-# **Abstract**
-
-An Application of Warehouse Management System
-
-This application facilitates users in managing warehouse operations, tracking product movements, and handling buying and selling information. It encompasses six key functions: financial information display, purchase order management, sales data management, warehouse inventory management, store management, and user information management.
-
-# **Background**
-
-The increasing prevalence of online stores necessitates efficient warehouse management. Many sellers lack adequate tools for consistent record-keeping and balancing of product movements, leading to operational delays and inconsistencies in sales data.
-
-# **Objectives**
-
-The aim of this project is to develop a mobile application that supports efficient and systematic warehouse management. It provides real-time tracking of warehouse movements and ensures effective customer order management.
-
-# **Apps image**
+# **App Screenshots:**
 <img src="https://github.com/Pisit-Janthawee/MobileApps-WarehousePal/blob/main/apps_icons/playstore.png" align="center">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
