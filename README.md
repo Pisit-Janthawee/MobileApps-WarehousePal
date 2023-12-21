@@ -4,15 +4,27 @@
 
 Mobile Application for Android Platform
 
-- About:  Warehouse and Retail Management Mobile application 
-- Collaboration: two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.
-- Objective: Addressed challenges in online and offline commerce warehouse and retail management.
-- Features:
+## **About:**
+WarehousePal is a responsive Warehouse and Retail Management mobile application developed over 8 months in collaboration with a team of two. The app, created using Android Studio, Flutter, Dart, SQLite, and GitHub, aims to address challenges in online and offline commerce management.
+
+## **Key Features:**
+
+- Automated shipping price calculation based on product weight.
+- Real-time tracking dashboard for optimized warehouse management.
+- Multi-store functionality within a single account.
+- Focus on efficient product movement management.
+- Variation of product support.
+  
+- **About:**  A Warehouse and Retail Management Mobile application, responsive User-Interface 
+- Collaboration: two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.    
+- **Objective:** Addressed challenges in online and offline commerce warehouse and retail management.
+- **Features:**
     - Support and calculate shipping prices based on product weight automatically.
     - Real-time tracking dashboard for enhanced warehouse management.
     - Multiple-store in 1 account
-- Focus on efficient product movement management.
-- Achievement: Published on Google Play Store with a high user satisfaction score (4.74/5).
+    - Focus on efficient product movement management.
+    - Variation of product 
+- **Achievement:** Published on Google Play Store with a high user satisfaction score (4.74/5).
 
 # Development tools
 1. **Android Studio**: Integrated Development Environment (IDE) for Android app development.
