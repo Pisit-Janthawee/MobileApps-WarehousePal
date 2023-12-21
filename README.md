@@ -28,7 +28,7 @@ The rise of online stores necessitates efficient warehouse management. Warehouse
 ## **Collaboration**
 - two-person-developed using Android Studio, Flutter, Dart, SQLite, and GitHub over 8 months.
   
-##**Achievement**
+## **Achievement**
 - Published on Google Play Store with a high user satisfaction score (4.74/5).
 
 # Development tools
